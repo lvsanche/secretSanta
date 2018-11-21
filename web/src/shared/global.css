@@ -1,0 +1,28 @@
+body {
+    background-color: #990000;
+    background-image: url(./snowflakes.gif);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: center top;
+}
+
+.l-content {
+    background-color: white;
+    border-radius: 5px;
+    padding: 5%;
+}
+
+h1 { 
+    font-size: 7vh;
+}
+
+h1 strong {
+    color: green;
+}
+
+ul {
+    font-size: 5vh;
+}
+li {
+    margin: 8px 0;
+}
